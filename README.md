@@ -1,2 +1,2 @@
 # YiruGONG.github.io
-This Yiru's personal website!
+This is Yiru's personal website!
