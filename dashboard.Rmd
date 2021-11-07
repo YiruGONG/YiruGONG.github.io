@@ -60,8 +60,10 @@ instacart %>%
   filter(department=="snacks") %>% 
   group_by(aisle,order_dow) %>% 
   summarize(mean_hour = mean(order_hour_of_day)) %>%
-  mutate(order_dow = factor(order_dow,labels=dow_labs)) %>% 
-  plot_ly(x=~order_dow,y=~mean_hour,type="scatter",mode="lines",color=~aisle) %>% 
+  mutate(order_dow = factor(order_dow,labels=dow_labs),
+         text_label = str_c("Aisle: ",aisle)) %>% 
+  plot_ly(x=~order_dow,y=~mean_hour,type="scatter",mode="lines",
+          color=~aisle,text=~text_label) %>% 
   layout(yaxis=list(title="Mean hour"),
          xaxis=list(title="Day of Week for order"))
 ```
