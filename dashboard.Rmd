@@ -1,0 +1,65 @@
+---
+title: "Instacart dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+
+library(plotly)
+library(flexdashboard)
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Instacart Aisle Popularity
+
+```{r}
+data("instacart")
+
+instacart %>%
+  count(aisle) %>% 
+  filter(n>10000) %>%
+  arrange(n) %>%
+  mutate(aisle=factor(aisle,levels = aisle)) %>% 
+  # mutate(aisle=as.character(aisle)) %>% 
+  plot_ly(
+    x=~aisle, y=~n, type="bar",color=~aisle,colors="viridis") %>% 
+  layout(yaxis=list(title="Number of items ordered in each aisle (n>10000)"),
+         xaxis=list(title=NA))
+```
+
+### Instacart Product Popularity
+
+```{r}
+instacart %>% 
+  count(aisle, product_name) %>% 
+  filter(n>2000) %>% 
+  arrange(desc(n)) %>% 
+  mutate(product_name=factor(product_name,levels=product_name)) %>% 
+  plot_ly(x=~product_name, y=~n,
+          type="scatter",mode="markers",color=~as.factor(aisle),colors="viridis") %>% 
+  layout(yaxis=list(title="Number of items ordered for each product (n>2000)"),
+         xaxis=list(title=NA))
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Order day and time for aisles
+
+```{r}
+instacart %>% 
+  # filter(aisle=="fresh vegetables") %>% 
+  group_by(aisle,order_dow) %>% 
+  summarize(mean_hour = mean(order_hour_of_day)) %>%
+  plot_ly(x=~order_dow,y=~mean_hour,type="scatter",mode="lines",color=~aisle) %>% 
+  layout(yaxis=list(title="Mean hour"),
+         xaxis=list(title="Day of Week for order"))
+
+```

@@ -1,0 +1,16 @@
+name: "My home page!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: resume.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<ygong2832@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/YiruGONG/
+    - icon: fab fa-linkedin-in
+      href: https://www.linkedin.com/in/yiru-gong-33901b14b/
+output:
+  html_document:
+    theme: cosmo
