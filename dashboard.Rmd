@@ -14,7 +14,7 @@ library(plotly)
 library(flexdashboard)
 ```
 
-Column {data-width=500}
+Column {data-width=650}
 -----------------------------------------------------------------------
 
 ### Instacart Aisle Popularity
@@ -34,6 +34,9 @@ instacart %>%
          xaxis=list(title=NA))
 ```
 
+Column {data-width=350}
+-----------------------------------------------------------------------
+
 ### Instacart Product Popularity
 
 ```{r}
@@ -48,16 +51,16 @@ instacart %>%
          xaxis=list(title=NA))
 ```
 
-Column {data-width=500}
------------------------------------------------------------------------
-
-### Order day and time for aisles
+### Order day and time for aisles in Snack Department
 
 ```{r}
+dow_labs = c("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+
 instacart %>% 
-  # filter(aisle=="fresh vegetables") %>% 
+  filter(department=="snacks") %>% 
   group_by(aisle,order_dow) %>% 
   summarize(mean_hour = mean(order_hour_of_day)) %>%
+  mutate(order_dow = factor(order_dow,labels=dow_labs)) %>% 
   plot_ly(x=~order_dow,y=~mean_hour,type="scatter",mode="lines",color=~aisle) %>% 
   layout(yaxis=list(title="Mean hour"),
          xaxis=list(title="Day of Week for order"))
