@@ -1,0 +1,30 @@
+---
+title: "Personal Background"
+output: html_document
+---
+
+# Summary
+MS in Biostatistics with hands-on experience from several internships including GlaxoSmithKline, combined with 
+substantial research and educational achievement in data analysis
+
+# Education
+* Columbia University, New York, US
+* Zhejiang University - University of Edinburgh Joint Institute
+
+# Industry Experience
+* GlaxoSmithKline (GSK), Digital Analyst Intern, R&D Tech Shanghai, China, 04/2021-07/2021
+* DuPont Danisco Nutrition & Bioscience, Sales/Marketing Intern, Intellifresh™ Shanghai, China, 03/2021-07/2021
+
+# Research Projects
+
+* Prof. Roger Foo’s lab, Cardiovascular Research Institute, National University of Singapore 01/2021-5/2021
+* Prof. Hangjin Jiang’s lab, Center of Data Science, Zhejiang University 09/2019-12/2020
+* Prof. Robert Young’s lab, Usher Institute, University of Edinburgh 07/2020-08/2020
+* Prof. Gedi Luksys's lab, Department of Neuroscience, University of Edinburgh 01/2020
+
+<br>
+
+# Download
+
+[Resume](./resume/CV_YiruGong_DS.pdf)
+

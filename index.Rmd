@@ -1,0 +1,22 @@
+---
+title: "Yiru Gong"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+MS in Biostatistics (2023)
+
+Columbia University Mailman School of Public Health
+
+<br><img src="images/profile.jpg" alt="yiru" style="width:75%; border:10px solid"><br>
+
+# Know more about me
+
+[Academic and professional experience](./resume.html)
+
+# My first Dashboard
+
+[Dashboard](./dashboard.html)
