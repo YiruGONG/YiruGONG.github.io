@@ -64,5 +64,4 @@ instacart %>%
   plot_ly(x=~order_dow,y=~mean_hour,type="scatter",mode="lines",color=~aisle) %>% 
   layout(yaxis=list(title="Mean hour"),
          xaxis=list(title="Day of Week for order"))
-
 ```
