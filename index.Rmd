@@ -1,19 +1,22 @@
 ---
 title: "Yiru Gong"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: cosmo
+output: html_document
 ---
+
+<!-- <link rel="stylesheet" href="academicons.css"/> -->
+<!-- <link rel="stylesheet" href="styles.css" type="text/css"> -->
 
 MS in Biostatistics (2023)
 
 Columbia University Mailman School of Public Health
 
-Interested area: Healthcare data analysis, Biostatistical method development, Machine learning and deep learning.
+<br>
+<center>
+<img src="images/profile.jpg" alt="yiru" style="width:65%; border:10px solid" class="center">
+</center>
+<br>
 
-<br><img src="images/profile.jpg" alt="yiru" style="width:75%; border:10px solid"><br>
+Interested area: Healthcare data analysis, Biostatistical method development, Machine learning and deep learning.
 
 ## Know more about me
 
@@ -24,3 +27,12 @@ Interested area: Healthcare data analysis, Biostatistical method development, Ma
 [Research and Course Projects on data science and computational biology](./projects.html)
 
 [R Shiny App Example](https://yirugong.shinyapps.io/shiny/)
+
+<br>
+
+## Contact Information
+
+E-mail: [yg2832@cumc.columbia.edu](mailto:yg2832@cumc.columbia.edu)
+
+Phone: (917)742-0036
+
