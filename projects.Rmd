@@ -1,0 +1,29 @@
+---
+title: "My Projects"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+<br>
+<br>
+
+## Research Projects
+
+
+## Course Projects
+
+[Website of Global Happiness Score](https://yirugong.github.io/world_happiness_report.github.io/index.html), *P8105 Data Science*, 09/2021-12/2021
+
+* Project Page: [
+world_happiness_report.github.io](https://github.com/YiruGONG/world_happiness_report.github.io)
+
+
+
+[US Crime Rate Report](./projects/CR_Report.pdf), *P8130 Biostatistical Methods*, 09/2021-12/2021
+
+* Project Page: [US_Crime_rate_MLR](https://github.com/YiruGONG/US_Crime_rate_MLR)
+
+## Others

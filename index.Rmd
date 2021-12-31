@@ -11,14 +11,16 @@ MS in Biostatistics (2023)
 
 Columbia University Mailman School of Public Health
 
+Interested area: Healthcare data analysis, Biostatistical method development, Machine learning and deep learning.
+
 <br><img src="images/profile.jpg" alt="yiru" style="width:75%; border:10px solid"><br>
 
 ## Know more about me
 
 [Academic and professional experience](./resume.html)
 
-## My first Dashboard
+## My Projects
 
-[Dashboard](./dashboard.html)
+[Research and Course Projects on data science and computational biology](./projects.html)
 
-
+[R Shiny App Example](https://yirugong.shinyapps.io/shiny/)

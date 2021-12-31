@@ -2,9 +2,12 @@ name: "My home page!"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
-    - text: "About"
+  left:
+    - text: "Experience"
       href: resume.html
+    - text: "Projects"
+      href: projects.html
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<ygong2832@gmail.com>
     - icon: fa-github fa-lg

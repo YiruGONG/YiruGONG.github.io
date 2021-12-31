@@ -8,7 +8,7 @@ MS in Biostatistics with hands-on experience from several internships including 
 
 ## Education
 * MS in Biostatistics, [Columbia University Mailman School of Public Health](http://www.publichealth.columbia.edu/), New York, US (2021-2023)
-* Bsc in Biomedical Science, [Zhejiang University - University of Edinburgh Joint Institute](https://zje.intl.zju.edu.cn/zje/home/index), Zhejiang, China (2017-2021)
+* Bsc in Biomedical Science, [Zhejiang University - University of Edinburgh Joint Institute](https://zje.intl.zju.edu.cn/zje/home/index), Zhejiang, China and Edinburgh, UK (2017-2021)
 
 ## Industry Experience
 * [GlaxoSmithKline (GSK)](https://www.gsk-china.com/en-gb/), Digital Analyst Intern, R&D Tech Shanghai, China (04/2021-07/2021)
@@ -20,6 +20,7 @@ MS in Biostatistics with hands-on experience from several internships including 
 * [Prof. Hangjin Jiang’s lab](https://jiangdata.github.io/), Center of Data Science, Zhejiang University (09/2019-12/2020)
 * [Prof. Robert Young’s lab](https://www.research.ed.ac.uk/en/persons/rob-young), Usher Institute, University of Edinburgh (07/2020-08/2020)
 * [Prof. Gedi Luksys's lab](https://www.ed.ac.uk/discovery-brain-sciences/our-staff/research-groups/gedi-luksys), Department of Neuroscience, University of Edinburgh (01/2020)
+* [Prof. Peng Shi's lab](https://person.zju.edu.cn/en/0016041), Institute of Translational Medicine, Zhejiang University (06/2018-09/2019)
 
 <br>
 
