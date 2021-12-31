@@ -8,7 +8,6 @@ output:
 ---
 
 <br>
-<br>
 
 ## Research Projects
 
