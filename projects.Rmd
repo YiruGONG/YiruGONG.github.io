@@ -11,18 +11,41 @@ output:
 
 ## Research Projects
 
+<u>[Undergraduate thesis: Investigating the role of ADAR-mediated RNA-editing in Cardiomyopathy](./projects/RNAediting_Dissertation.pdf)</u>, *Prof. Roger Foo's Lab*, 01/2021-05/2021
+
+* Project Page: [RNA-editing-from-RNAseq](https://github.com/YiruGONG/RNA-editing-from-RNAseq)
+
+<u>Estimate the contribution of Gene-Environment Interactions in DNA methylation in cancer</u>, *Prof. Hangjin Jiang’s lab*, 09/2020-12/2020
+
+* Project Page: [GxE-bayesian-estimation](https://github.com/YiruGONG/GxE-bayesian-estimation)
+
+<u>[Explore the genetic and epigenetic regulation of promoter birth and death in human brain evolution](./projects/Report_YoungLab_yiru.pdf)</u>, *Prof. Robert Young’s lab*, 07/2020-08/2020
+
+* Project Page: [brain_promoter_evolution](https://github.com/YiruGONG/brain_promoter_evolution)
+
+<u>Develop the method in detecting differential expression of microRNA from isoform data in cancer</u>, *Prof. Hangjin Jiang’s lab*, 03/2020-06/2020
+
+<u>Build computational reinforcement model for Morris Water Maze</u>, *Prof. Gedi Luksys's lab*, 01/2020-02/2020 (model unpublished yet)
+
+<u>Analyze brain fMRI image between smoker and non-smoker by building statistical models</u>, *Prof. Hangjin Jiang’s lab*, 09/2019-12/2019
+
+<br>
 
 ## Course Projects
 
-[Website of Global Happiness Score](https://yirugong.github.io/world_happiness_report.github.io/index.html), *P8105 Data Science*, 09/2021-12/2021
+<u>[Website of Global Happiness Score](https://yirugong.github.io/world_happiness_report.github.io/index.html)</u>, *P8105 Data Science*, 09/2021-12/2021
 
 * Project Page: [
 world_happiness_report.github.io](https://github.com/YiruGONG/world_happiness_report.github.io)
 
-
-
-[US Crime Rate Report](./projects/CR_Report.pdf), *P8130 Biostatistical Methods*, 09/2021-12/2021
+<u>[US Crime Rate Report](./projects/CR_Report.pdf)</u>, *P8130 Biostatistical Methods*, 09/2021-12/2021
 
 * Project Page: [US_Crime_rate_MLR](https://github.com/YiruGONG/US_Crime_rate_MLR)
 
+<br>
+
 ## Others
+
+<u>Establishment of a Database to Track Differences in Medication Treatment Response by Ethnicity</u>, *GSK Digital Analyst Internship*, 03/2021-07/2021
+
+<u>Natural Language Processing (NLP)-based Medical Knowledge Graph Establishment and Embedding</u>, *GSK Digital Analyst Internship*, 03/2021-07/2021
