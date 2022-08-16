@@ -11,6 +11,14 @@ output:
 
 ## Research Projects
 
+<u>Establishing a Docker Image for Automated Compound Heterozygous (CH) Identification</u>, *Prof. Ali Gharavi’s lab*, 03/2022-08/2022
+
+* Project Page: [DSI-comhet](https://github.com/YiruGONG/DSI-comhet)
+
+Competition: <u> [Covid-19 Infection Percentage Estimation (CodaLab)](https://competitions.codalab.org/competitions/35575#learn_the_details)</u>, 01/2022-03/2022
+
+* Project Page: [DL-Competition](https://github.com/BuddGao/DL-Competition)
+
 <u>[Undergraduate thesis: Investigating the role of ADAR-mediated RNA-editing in Cardiomyopathy](./projects/RNAediting_Dissertation.pdf)</u>, *Prof. Roger Foo's Lab*, 01/2021-05/2021
 
 * Project Page: [RNA-editing-from-RNAseq](https://github.com/YiruGONG/RNA-editing-from-RNAseq)
@@ -33,6 +41,15 @@ output:
 
 ## Course Projects
 
+<u>[Applying Masked Token Transformer (MaskGIT) in Long Audio Generation](https://github.com/HawkDukez/W4995DL-Final/blob/main/asset/poster-team6.pdf)</u>, *COMS 4995 W - Deep Learning*, 01/2022-05/2022
+
+* Project Page: [W4995DL-Final](https://github.com/HawkDukez/W4995DL-Final)
+
+<u>[Integrated Covid-19 Services Database and Website Interface](http://34.138.84.215:8111/)</u>, *COMS 4111 W Introduction To Databases*, 01/2022-05/2022
+
+* Project Page: [COVID-19-Services-Cloud-Platform](https://github.com/Dantongtong/COVID-19-Services-Cloud-Platform)
+* Please email [me](mailto:yg2832@cumc.columbia.edu) for live demo on GCP Server
+
 <u>[Website of Global Happiness Score](https://yirugong.github.io/world_happiness_report.github.io/index.html)</u>, *P8105 Data Science*, 09/2021-12/2021
 
 * Project Page: [
@@ -45,6 +62,8 @@ world_happiness_report.github.io](https://github.com/YiruGONG/world_happiness_re
 <br>
 
 ## Others
+
+<u>Clinical AI & UM Automation</u>, *Anthem Health Data Analytics Intern*, 06/2022-08/2022
 
 <u>Establishment of a Database to Track Differences in Medication Treatment Response by Ethnicity</u>, *GSK Digital Analyst Internship*, 03/2021-07/2021
 
