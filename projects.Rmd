@@ -11,6 +11,10 @@ output:
 
 ## Research Projects
 
+Humana-Mays Healthcare Analytics Case Competition: <u> [Analysis of Housing Insecurity](https://mays.tamu.edu/humana-tamu-analytics/)</u>, 08/2022-10/2022
+
+* Project Page: [Humana-Competition](https://github.com/YiruGONG/Humana-competition)
+
 <u>Establishing a Docker Image for Automated Compound Heterozygous (CH) Identification</u>, *Prof. Ali Gharavi’s lab*, 03/2022-08/2022
 
 * Project Page: [DSI-comhet](https://github.com/YiruGONG/DSI-comhet)
