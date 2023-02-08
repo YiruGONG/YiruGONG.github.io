@@ -18,6 +18,8 @@ MS in Biostatistics with hands-on experience from several internships including 
 
 ## Research Assistant Roles
 
+* [Women and Gender in Global Affairs (WGGA)](https://www.humanrightscolumbia.org/wgga),Institute for the Study of Human Rights, Columbia University (01/2022-now)
+* [Center for Patient Safety Research](https://www.genmed.columbia.edu/research/research-centers-and-programs/center-for-patient-safety-research), Department of Medicine, Columbia University (10/2022-now)
 * [Prof. Ali Gharavi’s lab](https://www.columbiamedicine.org/divisions/gharavi/), Center for Precision Medicine and Genomics, Columbia University (03/2022-08/2022)
 * [Prof. Roger Foo’s lab](https://foo-lab.sg/), Cardiovascular Research Institute, National University of Singapore (01/2021-5/2021)
 * [Prof. Hangjin Jiang’s lab](https://jiangdata.github.io/), Center of Data Science, Zhejiang University (09/2019-12/2020)
@@ -29,5 +31,5 @@ MS in Biostatistics with hands-on experience from several internships including 
 
 ## Download
 
-[Resume](./resume/CV_YiruGong_DS.pdf)
+[Resume](./resume/CV_YiruGong_1p.pdf)
 

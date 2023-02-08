@@ -11,17 +11,11 @@ output:
 
 ## Research Projects
 
-Humana-Mays Healthcare Analytics Case Competition: <u> [Analysis of Housing Insecurity](https://mays.tamu.edu/humana-tamu-analytics/)</u>, 08/2022-10/2022
-
-* Project Page: [Humana-Competition](https://github.com/YiruGONG/Humana-competition)
+<u>Design a SQL Relational Database for Wrong-Patient Errors</u>, *Center of Patient Safety Research*, 10/2022-now
 
 <u>Establishing a Docker Image for Automated Compound Heterozygous (CH) Identification</u>, *Prof. Ali Gharavi’s lab*, 03/2022-08/2022
 
 * Project Page: [DSI-comhet](https://github.com/YiruGONG/DSI-comhet)
-
-Competition: <u> [Covid-19 Infection Percentage Estimation (CodaLab)](https://competitions.codalab.org/competitions/35575#learn_the_details)</u>, 01/2022-03/2022
-
-* Project Page: [DL-Competition](https://github.com/BuddGao/DL-Competition)
 
 <u>[Undergraduate thesis: Investigating the role of ADAR-mediated RNA-editing in Cardiomyopathy](./projects/RNAediting_Dissertation.pdf)</u>, *Prof. Roger Foo's Lab*, 01/2021-05/2021
 
@@ -43,21 +37,67 @@ Competition: <u> [Covid-19 Infection Percentage Estimation (CodaLab)](https://co
 
 <br>
 
+## Competitions
+
+Humana-Mays Healthcare Analytics Case Competition: <u> [Analysis of Housing Insecurity](https://mays.tamu.edu/humana-tamu-analytics/)</u>, 08/2022-10/2022
+
+* Project Page: [Humana-Competition](https://github.com/YiruGONG/Humana-competition)
+* Business Report: [Analysis of Housing Insecurity](https://github.com/YiruGONG/Humana-competition/blob/main/2022CaseCompetition_Yiru_Gong_20221016.pdf)
+
+CodaLab Competition: <u> [Covid-19 Infection Percentage Estimation](https://competitions.codalab.org/competitions/35575#learn_the_details)</u>, 01/2022-03/2022
+
+* Project Page: [DL-Competition](https://github.com/BuddGao/DL-Competition)
+
+<br>
+
 ## Course Projects
 
-<u>[Applying Masked Token Transformer (MaskGIT) in Long Audio Generation](https://github.com/HawkDukez/W4995DL-Final/blob/main/asset/poster-team6.pdf)</u>, *COMS 4995 W - Deep Learning*, 01/2022-05/2022
+<br>
 
-* Project Page: [W4995DL-Final](https://github.com/HawkDukez/W4995DL-Final)
+### Engineering and Databases
+
+<u>[Building a Full Stack Website Application for Badminton Appointment System](https://youtu.be/KFq0ex0oiKk)</u>, *COMS 6156 - Cloud Computing*, 09/2022-12/2022
+
+* Project Page: [6156-CUMC-Badminton-Service](https://github.com/YiruGONG/6156-CUMC-Badminton-Service)
 
 <u>[Integrated Covid-19 Services Database and Website Interface](http://34.138.84.215:8111/)</u>, *COMS 4111 W Introduction To Databases*, 01/2022-05/2022
 
 * Project Page: [COVID-19-Services-Cloud-Platform](https://github.com/Dantongtong/COVID-19-Services-Cloud-Platform)
 * Please email [me](mailto:yg2832@cumc.columbia.edu) for live demo on GCP Server
 
+<br>
+
+### Machine Learning and Modeling
+
+<u>[Effects of Critic/User Review Language on Movie Perception](https://drive.google.com/file/d/1PH5thgSIiz0qjFHcFbBxBPsBHdyN0vYK/view?usp=sharing)</u>, *QMSS 5067 GR - Natural Language Processing S*, 09/2022-12/2022
+
+* Project Page: [QMSSGR5067_Group9](https://github.com/kk0918/QMSSGR5067_Group9)
+
+<u>[Applying Masked Token Transformer (MaskGIT) in Long Audio Generation](https://youtu.be/KFq0ex0oiKk)</u>, *COMS 4995 W - Deep Learning*, 01/2022-05/2022
+
+* Project Page: [W4995DL-Final](https://github.com/HawkDukez/W4995DL-Final)
+
+<u>[Predicting Covid-19 Vaccination Status from Social-economic Variables](https://github.com/YiruGONG/DSII-covid-vacc-pred/blob/main/final_report.pdf)</u>, *BIST 8106 P - Data Science II*, 01/2022-05/2022
+
+* Project Page: [DSII-covid-vacc-pred](https://github.com/YiruGONG/DSII-covid-vacc-pred)
+
+<br>
+
+### Data Visualization And Analytic Reports
+
 <u>[Website of Global Happiness Score](https://yirugong.github.io/world_happiness_report.github.io/index.html)</u>, *P8105 Data Science*, 09/2021-12/2021
 
 * Project Page: [
 world_happiness_report.github.io](https://github.com/YiruGONG/world_happiness_report.github.io)
+
+<br>
+
+### Statistical Analysis
+
+<u>[Structural Learning of rs-fMRI data in Heavy
+Smokers](https://github.com/YiruGONG/P8124-Graphical-Models/blob/main/Graphical_Final_Project.pdf)</u>, *BIST 8124 P - Graphical Models Complex*, 09/2022-12/2022
+
+* Project Page: [P8124-Graphical-Models](https://github.com/YiruGONG/P8124-Graphical-Models)
 
 <u>[US Crime Rate Report](./projects/CR_Report.pdf)</u>, *P8130 Biostatistical Methods*, 09/2021-12/2021
 

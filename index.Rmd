@@ -24,9 +24,13 @@ Interested area: Healthcare data analysis, Biostatistical method development, Ma
 
 ## My Projects
 
-[Research and Course Projects on data science and computational biology](./projects.html)
+[Research and Course Projects](./projects.html)
 
 [R Shiny App Example](https://yirugong.shinyapps.io/shiny/)
+
+[Business Case Report Example](./projects/2022CaseCompetition_Yiru_Gong_20221016.pdf)
+
+[Web Application Demo](https://youtu.be/KFq0ex0oiKk)
 
 <br>
 
